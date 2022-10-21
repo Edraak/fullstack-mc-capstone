@@ -37,7 +37,7 @@ $ npm start
 ```
 
 ## Project Requirements
-in this section, we list what requirements/features must be built.
+In this section, we list what requirements/features must be built.
 check the feature that has been developed and tested to ensure that it works correctly and completely.
 
 ### Admin:
