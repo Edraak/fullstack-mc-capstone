@@ -79,4 +79,4 @@ Add the link to the demo video that you uploaded to YouTube. **[[remove]]**
 
 This video contains a complete test of the features you have developed. **[[remove]]**
 
-[https://www.youtube.com/shorts/95ZFMFHoVV0](https://www.youtube.com/shorts/95ZFMFHoVV0) **[[replace]]**
+[https://youtu.be/kwvpfTC8-go](https://youtu.be/kwvpfTC8-go) **[[replace]]**
