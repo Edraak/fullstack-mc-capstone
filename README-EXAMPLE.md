@@ -73,4 +73,4 @@ Put an X between the brackets for each feature that has been developed and teste
 
 ## Demo 
 
-[https://www.youtube.com/shorts/95ZFMFHoVV0](https://www.youtube.com/shorts/95ZFMFHoVV0)
+[https://youtu.be/kwvpfTC8-go](https://youtu.be/kwvpfTC8-go)
