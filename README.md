@@ -2,12 +2,8 @@
 This file explains this project.
 It contains information that is commonly required to understand what this project is about.
 
-Note 1: Any line that has **[[remove]]** after it should be removed from your file. **[[remove]]**
-
-Note 2: Any line that has **[[replace]]** after it should be replaced with your own information. **[[remove]]**
-
-# Project Name [[replace]]
-Project description goes here... **[[replace]]**
+# Tallah Store
+This project implements a simple clothing store called the Tallah Store. The website is a simple e-commerce website that allows admins to create products and classify them into categories. And it allows customers to make orders
 
 # Table of contents
 * [Project Setup](#project-setup)
@@ -22,23 +18,20 @@ In this section, the key points about technologies used in the project are menti
 
 ### Technologies and Dependencies
 
-Describe any prerequisites, frameworks, libraries, OS version, etc., needed before installing program. **[[remove]]**
-
-For example: **[[remove]]**
 * Project is created with:
-  * Laravel: v9. **[[replace]]**
-  * OS: Ubuntu 22.04. **[[replace]]**
-  * add any extra libraries you use here if there is any **[[remove]]**
+  * Laravel: v8.x
+  * Windows 10, v22H2
+  * Bootstrap: v5.2.2
+  * Laravel Breeze: vv1.14.2
 
 ### Installing & Executing program
+To run this project locally, just download a copy of the code and run the following commands:
 
-* How to run your project on a local environment **[[replace]]**
-* Use Step-by-step bullets to list the steps, and code block for commands, for example: **[[replace and replace code block below]]**
-```
-$ cd code
+$ cd Ecommerce-Taghrid- Edraak # this is the project folder you downloaded
 $ npm install
-$ npm run dev
-```
+$ composer install
+$ php artisan migrate
+$ php artisan serve
 
 ## Project Requirements
 In this section, a list of all the requirements/features of the project are presented.
